@@ -1,6 +1,5 @@
 {
   "name": "booksearch",
-  "homepage": "https://fathomless-sands-88387.herokuapp.com/",
   "version": "1.0.0",
   "description": "Book Search",
   "main": "server.js",
